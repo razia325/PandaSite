@@ -1,6 +1,9 @@
 .container{
     margin-bottom: 80px;
 }
+.list-item{
+    padding-left: 52%;
+}
 .pink-bg {
    background-color: #feeae9;
    border-radius: 10px;
